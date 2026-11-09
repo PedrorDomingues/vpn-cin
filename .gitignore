@@ -1,0 +1,14 @@
+# Credenciais, exportações de perfis e diagnósticos locais.
+.env
+.env.*
+*.log
+*.nmconnection
+*secrets*
+*.key
+id_rsa*
+id_ed25519*
+
+# Arquivos temporários de editores e do sistema.
+*~
+*.swp
+.DS_Store
